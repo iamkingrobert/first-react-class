@@ -1,0 +1,15 @@
+ul > li{
+    margin-right: 10px;  
+}
+
+.btn__sign{
+    width: 100px;
+    height: 35px;
+    border-radius: 20px;
+}
+.btn__sign:hover{
+    background-color: rgb(41 37 36);
+}
+a:hover{
+    color: rgb(41 37 36);
+}

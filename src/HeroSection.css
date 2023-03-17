@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500;700&display=swap');
+
+.hero__container{
+    display: flex;
+    flex-direction: row;
+}
+
+.king-img{
+    height: 600px;
+    border-bottom-right-radius: 180px;
+    border-top-left-radius: 180px;
+}
+
+.hero__text{
+    width: 600px;
+    margin-right: 1rem;
+}
+.hero__text h1{
+    font-size: 4.5rem;
+    font-weight: 900;
+    margin-bottom: 20px;
+}
+.hero__text span{
+    color: rgb(53, 7, 162);
+}
+
+.hero__text h5{
+    font-size: 20px;
+}
+.author{
+    color: black !important;
+    font-style: italic;
+}
+
+.btn{
+    height: 45px;
+    width: 150px;
+    margin-top: 20px;
+    border: 1px solid;
+    border-radius: 20px;
+    border-color: black;
+}
+.btn:hover{
+    background-color: black;
+    color: white;
+}
+
+
